@@ -1,0 +1,78 @@
+<resources>
+    <string name="app_name">ExSearch</string>
+
+    <string-array name="abbreviations">
+
+        <item>ASAP\nAs soon as possible</item>
+        <item>AWOL</item>
+        <item>BRB</item>
+        <item>DIY</item>
+        <item>EOBD</item>
+        <item>EOD</item>
+        <item>ETA</item>
+        <item>FAQ</item>
+        <item>FBI</item>
+        <item>FYI</item>
+        <item>HR</item>
+        <item>IDK</item>
+        <item>IIRC</item>
+        <item>ILY</item>
+        <item>IMO</item>
+        <item>IRL</item>
+        <item>LOL</item>
+        <item>MBA</item>
+        <item>MIA</item>
+        <item>NASA</item>
+        <item>NSFW</item>
+        <item>NVM</item>
+        <item>OMG</item>
+        <item>OMW</item>
+        <item>POS</item>
+        <item>POV</item>
+        <item>SWAT</item>
+        <item>TBA</item>
+        <item>TGIF</item>
+        <item>TMI</item>
+        <item>TTYL</item>
+        <item>TYVM</item>
+
+    </string-array>
+
+    <string-array name="acronyms">
+
+        <item>As Soon As Possible</item>
+        <item>Absent Without Leave</item>
+        <item>Be Right Back</item>
+        <item>Do It Yourself</item>
+        <item>End Of Business Day</item>
+        <item>End Of Day</item>
+        <item>Estimated Time of Arrival</item>
+        <item>Frequently Asked Questions</item>
+        <item>Federal Bureau of Investigation</item>
+        <item>For Your Information</item>
+        <item>Human Resources</item>
+        <item>I Don’t Know</item>
+        <item>If I Recall/Remember Correctly</item>
+        <item>I Love You</item>
+        <item>In My Opinion</item>
+        <item>In Real Life</item>
+        <item>Laughing Out Loud</item>
+        <item>Masters of Business Administration</item>
+        <item>Missing In Action</item>
+        <item>National Aeronautics and Space Administration</item>
+        <item>Not Safe For Work</item>
+        <item>Never mind</item>
+        <item>Oh My God</item>
+        <item>On My Way</item>
+        <item>Point Of Service</item>
+        <item>Point Of View</item>
+        <item>Special Weapons And Tactics</item>
+        <item>To Be Announced</item>
+        <item>Thank God It’s Friday</item>
+        <item>Too Much Information</item>
+        <item>Talk To You Later</item>
+        <item>Thank You Very Much</item>
+
+    </string-array>
+
+</resources>
